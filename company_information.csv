@@ -1,0 +1,40 @@
+name,rating,reviews,type,location,Industry,Founded_in,Website,India_Headquarters
+TCS,3.7,81.8k,Public,Lucknow|Ahmedabad|Bangalore / Bengaluru|+17,IT Services & Consulting,1968 (56 yrs old),tcs.com,"Mumbai, Maharashtra, India"
+Accenture,3.9,51k,Public,Dublin|Bangalore / Bengaluru|New Delhi|+2,IT Services & Consulting,1989 (35 yrs old),accenture.com,
+Cognizant,3.8,46k,Forbes Global 2000,Mangaluru|Bangalore / Bengaluru|Coimbatore|+7,IT Services & Consulting,1994 (30 yrs old),cognizant.com,
+Wipro,3.7,45.9k,Public,Lucknow|Ahmedabad|Bangalore / Bengaluru|+21,IT Services & Consulting,1945 (79 yrs old),careers.wipro.com,"Bangalore/Bengaluru, Karnataka, India"
+Capgemini,3.8,37.9k,Public,Bangalore / Bengaluru|Chennai|Hyderabad / Secunderabad|+6,IT Services & Consulting,1967 (57 yrs old),capgemini.com,"Pune, Maharashtra, India"
+HDFC Bank,3.9,36.7k,Public,Mumbai|Bangalore / Bengaluru|New Delhi,Banking,1994 (30 yrs old),hdfcbank.com,"Mumbai, Maharashtra, India"
+ICICI Bank,4.0,36k,Public,New Delhi|Bangalore / Bengaluru|Hyderabad / Secunderabad|+7,Banking,1994 (30 yrs old),icicibank.com,"Mumbai, Maharashtra, India"
+Infosys,3.7,35.5k,Public,,,,,
+HCLTech,3.6,32.7k,Public,,,,,
+Tech Mahindra,3.6,30.1k,Public,Bangalore / Bengaluru|Gurgaon / Gurugram|Bhubaneswar|+11,IT Services & Consulting,1986 (38 yrs old),techmahindra.com,"Pune, Maharashtra, India"
+Genpact,3.9,28.6k,Public,New York|Bangalore / Bengaluru|New Delhi|+7,IT Services & Consulting,1997 (27 yrs old),genpact.com,
+Teleperformance,3.9,26k,46 years old,Gurgaon / Gurugram,--,1978 (46 yrs old),teleperformance.com,"Gurgaon / Gurugram, Haryana, India"
+Concentrix Corporation,3.8,24.5k,Public,--,IT Services & Consulting,1983 (41 yrs old),concentrix.com,"Gurgaon/Gurugram, Haryana, India"
+Axis Bank,3.8,23.7k,Public,Ahmedabad|Mumbai,Banking,1993 (31 yrs old),axisbank.com,"Mumbai, Maharashtra, India"
+Amazon,4.1,23.7k,Public,Hyderabad / Secunderabad|Chennai|Bangalore / Bengaluru,Internet,1994 (30 yrs old),amazon.jobs,"Hyderabad / Secunderabad, Telangana, India"
+Jio,3.9,21.3k,Public,Noida|Palakkad|Narasaraopet|+1,Telecom,2018 (6 yrs old),jio.com,"Navi Mumbai, Maharashtra, India"
+IBM,4.1,20.8k,Public,Bangalore / Bengaluru|New Delhi|Pune|+3,IT Services & Consulting,1911 (113 yrs old),ibm.com,"Bangalore / Bengaluru, Karnataka, India"
+Reliance Retail,3.9,20.8k,18 years old,Mumbai,Retail,2006 (18 yrs old),relianceretail.com,"Ghansoli, Navi Mumbai, India"
+HDB Financial Services,4.0,19.1k,17 years old,Barnala|Bhilai Nagar|Guwahati|+5,NBFC,2007 (17 yrs old),hdbfs.com,"Ahmedabad, Gujrat, India"
+iEnergizer,4.7,19.1k,24 years old,,,,,
+Larsen & Toubro Limited,4.0,17.4k,Public,Ahmedabad|Lucknow|Chandigarh|+14,Engineering & Construction,1938 (86 yrs old),larsentoubro.com,"Mumbai, Maharashtra, India"
+Deloitte,3.9,16.3k,179 years old,Ahmedabad|Bangalore / Bengaluru|Hyderabad / Secunderabad|+4,Management Consulting,1845 (179 yrs old),www2.deloitte.com,
+BYJU'S,3.1,15.8k,Indian Unicorn,Bangalore / Bengaluru|New Delhi,EdTech,2011 (13 yrs old),byjus.com,"Bangalore,Karnataka, India"
+Kotak Mahindra Bank,3.8,15.3k,Public,Lucknow|Mangaluru|Bilaspur|+29,Banking,2003 (21 yrs old),kotak.com,"Mumbai, Maharashtra, India"
+LTIMindtree,3.5,14.8k,Public,--,IT Services & Consulting,1997 (27 yrs old),ltimindtree.com,"Mumbai, India, India"
+Vodafone Idea,4.1,14.7k,Public,Mumbai,Telecom,2018 (6 yrs old),myvi.in,"Mumbai, Maharashtra, India"
+Bharti Airtel,4.0,12.8k,Public,New Delhi|Bangalore / Bengaluru|Shimla|+4,Telecom,1952 (72 yrs old),airtel.in,"Gurgaon/Gurugram, Haryana, India"
+Tata Motors,4.2,11.2k,Public,Ahmedabad|Bangalore / Bengaluru|Adoni|+10,Automobile,1945 (79 yrs old),tatamotors.com,"Pune, Maharashtra, India"
+WNS,3.4,10.3k,28 years old,Bangalore / Bengaluru|Chennai|Visakhapatnam|+6,BPO,1996 (28 yrs old),wns.com,"Mumbai, Maharashtra, India"
+Flipkart,4.0,10.1k,Public,Nagpur|Bangalore / Bengaluru|Visakhapatnam|+1,Internet,2007 (17 yrs old),flipkart.com,"Bangalore,Karnataka, India"
+IndusInd Bank,3.6,10k,Public,Ahmedabad|Bangalore / Bengaluru|Chennai|+5,Banking,1994 (30 yrs old),indusind.com,"Gurgaon/Gurugram, Haryana, India"
+Ernst & Young,3.5,9.7k,22 years old,Ahmedabad|Bangalore / Bengaluru|Gurgaon / Gurugram|+10,Management Consulting,2002 (22 yrs old),ey.com,
+IDFC FIRST Bank,4.0,9.4k,Public,Mumbai,Banking,2018 (6 yrs old),idfcfirstbank.com,"Mumbai, Maharashtra, India"
+DXC Technology,3.7,9.3k,Public,--,IT Services & Consulting,2017 (7 yrs old),dxc.com,
+Mahindra & Mahindra,4.1,9.3k,Public,Nagpur|Madurai|Nashik|+2,Automobile,1945 (79 yrs old),mahindra.com,"Mumbai, Maharashtra, India"
+AU Small Finance Bank,4.4,9.3k,Fortune India 500,--,Banking,1996 (28 yrs old),aubank.in,"Jaipur, Rajasthan, India"
+Infosys BPM,3.8,8.9k,22 years old,Bangalore / Bengaluru|New Delhi|Noida|+1,BPO,2002 (22 yrs old),infosysbpm.com,"Bangalore/Bengaluru, Karnataka, India"
+Bajaj Finserv,4.0,8.4k,Public,Warud|Ahmedabad|Hyderabad / Secunderabad|+4,Financial Services,2007 (17 yrs old),bajajfinserv.in,"Pune,Maharashtra, India"
+Conneqt Business Solutions,3.7,8.3k,22 years old,--,BPO,2002 (22 yrs old),conneqtcorp.com,"Mumbai, Maharashtra, India"
